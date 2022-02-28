@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/marucube34"><img src="https://api.daily.dev/devcards/e49c823346d148c9ae538df74b6c5d40.png?r=39n" width="400" alt="Lê Minh Quân's Dev Card"/></a>
+<a href="https://app.daily.dev/marucube34"><img src="https://github.com/marucube35/marucube35/blob/main/devcard.svg" width="1000" alt="Lê Minh Quân's Dev Card"/></a>
