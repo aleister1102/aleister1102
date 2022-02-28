@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+  a{
+    display: block;
+    text-align: center;
+  }
+</style>
 
 <a href="https://app.daily.dev/marucube34"><img src="https://api.daily.dev/devcards/e49c823346d148c9ae538df74b6c5d40.png?r=39n" width="400" alt="Lê Minh Quân's Dev Card"/></a>
