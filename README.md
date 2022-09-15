@@ -51,7 +51,7 @@
     align="left"
     src="https://github.com/marucube35/marucube35/blob/main/devcard.svg"
     width="50%"
-    height="820"
+    height="760"
     alt="Chris Bongers's Dev Card"
 />
 
@@ -84,7 +84,7 @@
 
 <img
     align="right"
-    width="46%"
+    width="45%"
     src="https://www.whatspaper.com/wp-content/uploads/2021/07/hd-zero-two-wallpaper-whatspaper-4.jpg"
 />
 
