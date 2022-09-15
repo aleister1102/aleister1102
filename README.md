@@ -44,16 +44,18 @@
     <p>⚡ Fun fact: I am an introvert.</p>
 </div>
 
+<br>
 <h2>Statistics</h2>
+
 <img
-    align="right"
+    align="left"
     src="https://github.com/marucube35/marucube35/blob/main/devcard.svg"
     width="50%"
-    height="800"
+    height="820"
     alt="Chris Bongers's Dev Card"
 />
 
-<div align="left">
+<div align="right">
     <div>
         <h3>⚡ Github ⚡</h3>
         <img
@@ -77,16 +79,23 @@
     </div>
 </div>
 
+<br>
 <h2>My featured projects</h2>
 
-<div align="center">
+<img
+    align="right"
+    width="46%"
+    src="https://www.whatspaper.com/wp-content/uploads/2021/07/hd-zero-two-wallpaper-whatspaper-4.jpg"
+/>
+
+
+<div align="left">
     <a href="https://github.com/marucube35/pokedex"
         ><img
             width="45%"
             src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=pokedex&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
             alt="Pokedex repo"
     /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/marucube35/react_projects"
         ><img
             width="45%"
@@ -99,7 +108,6 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=music_player&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
             alt="Music player repo"
     /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/marucube35/shopee-clone"
         ><img
             width="45%"
@@ -112,7 +120,6 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=mock_students&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
             alt="Shoppe clone repo"
     /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/marucube35/ncov-20CTT3"
         ><img
             width="45%"
