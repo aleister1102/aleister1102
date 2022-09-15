@@ -48,7 +48,6 @@
 </div>
 
 <br>
-<h2>Statistics</h2>
 
 <img
     align="left"
