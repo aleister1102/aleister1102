@@ -73,14 +73,14 @@
 
 <h2>My featured projects</h2>
 
-<div align="center" width="100%">
+<div align="center">
     <a href="https://github.com/marucube35/pokedex"
         ><img
             width="45%"
             src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=pokedex&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
             alt="Pokedex repo"
     /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/marucube35/react_projects"
         ><img
             width="45%"
@@ -93,7 +93,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=cat_breeds&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
             alt="Cat breeds repo"
     /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/marucube35/music_player"
         ><img
             width="45%"
@@ -106,7 +106,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=shopee-clone&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
             alt="Shoppe clone repo"
     /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/marucube35/mock_students"
         ><img
             width="45%"
