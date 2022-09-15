@@ -47,8 +47,6 @@
     <p>⚡ Fun fact: I am an introvert.</p>
 </div>
 
-<br>
-
 <img
     align="left"
     src="https://github.com/marucube35/marucube35/blob/main/devcard.svg"
