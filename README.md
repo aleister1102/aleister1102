@@ -73,7 +73,7 @@
 
 <h2>My featured projects</h2>
 
-<div align="center">
+<div align="center" width="100%">
     <a href="https://github.com/marucube35/pokedex"
         ><img
             width="45%"
