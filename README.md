@@ -4,7 +4,10 @@
     height="auto"
 />
 
-<h1 align="center">Hi there, I'm Lê Minh Quân 👋.</h1>
+<h1 align="center">Hi there, I'm Lê Minh Quân
+    <img width="2.4%" height="auto" src="https://media.giphy.com/media/v5zkiOWG6Fr1RVEtrb/giphy.gif"/>
+</h1>
+
 
 <div align="center">
     <a href="mailto:20120356@student.hcmus.edu.vn"
