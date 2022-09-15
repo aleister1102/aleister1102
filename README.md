@@ -51,7 +51,7 @@
     align="left"
     src="https://github.com/marucube35/marucube35/blob/main/devcard.svg"
     width="50%"
-    height="780"
+    height="700"
     alt="Chris Bongers's Dev Card"
 />
 
