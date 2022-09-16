@@ -134,7 +134,7 @@
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img
-            src="https://github-profile-trophy.vercel.app/?username=marucube35&theme=dracula&margin-w=30"
+            src="https://github-profile-trophy.vercel.app/?username=marucube35&theme=dracula&margin-w=26"
         />
     </a>
 </p>
