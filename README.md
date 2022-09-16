@@ -5,7 +5,7 @@
 />
 
 <h1 align="center">Hi there, I'm Lê Minh Quân
-    <img width="2.4%" height="auto" src="https://media.giphy.com/media/v5zkiOWG6Fr1RVEtrb/giphy.gif"/>
+    <img height="30px" src="https://media.giphy.com/media/v5zkiOWG6Fr1RVEtrb/giphy.gif"/>
 </h1>
 
 
@@ -36,7 +36,7 @@
     /></a>
 </div>
 
-<h2>About me</h2>
+<h2>About Me</h2>
 
 <div>
     <p>🤗 You can call me Kwan or Kuan.</p>
@@ -47,15 +47,15 @@
     <p>⚡ Fun fact: I am an introvert.</p>
 </div>
 
+<h2> Stats </h2>
+
 <img
-    align="left"
-    src="https://github.com/marucube35/marucube35/blob/main/devcard.svg"
-    width="50%"
-    height="700"
-    alt="Chris Bongers's Dev Card"
+    align="right"
+    width="45%"
+    src="https://www.whatspaper.com/wp-content/uploads/2021/07/hd-zero-two-wallpaper-whatspaper-4.jpg"
 />
 
-<div align="right">
+<div align="left">
     <div>
         <h3>⚡ Github ⚡</h3>
         <img
@@ -80,16 +80,9 @@
 </div>
 
 <br>
-<h2>My featured projects</h2>
+<h2>My Featured Projects</h2>
 
-<img
-    align="right"
-    width="47%"
-    src="https://www.whatspaper.com/wp-content/uploads/2021/07/hd-zero-two-wallpaper-whatspaper-4.jpg"
-/>
-
-
-<div align="left">
+<div align="center">
     <a href="https://github.com/marucube35/pokedex"
         ><img
             width="45%"
@@ -127,4 +120,16 @@
             alt="ncov-20CTT3 repo"
     /></a>
 </div>
+
+<h2>Developer Card</h2>
+<div align="center">
+    <img
+        align="center"
+        src="https://github.com/marucube35/marucube35/blob/main/devcard.svg"
+        width="50%"
+        height="auto"
+        alt="Lê Minh Quân's Dev Card"
+    />
+</div>
+
 
