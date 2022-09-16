@@ -94,6 +94,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=pokedex&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
             alt="Pokedex repo"
     /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/marucube35/react_projects"
         ><img
             width="45%"
@@ -106,6 +107,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=music_player&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
             alt="Music player repo"
     /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/marucube35/shopee-clone"
         ><img
             width="45%"
@@ -118,6 +120,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=mock_students&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
             alt="Shoppe clone repo"
     /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/marucube35/ncov-20CTT3"
         ><img
             width="45%"
