@@ -108,11 +108,11 @@
             alt="Music player repo"
     /></a>
     &#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/marucube35/shopee-clone"
+    <a href="https://github.com/marucube35/cat_breeds"
         ><img
             width="45%"
-            src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=shopee-clone&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
-            alt="Shoppe clone repo"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=marucube35&repo=cat_breeds&theme=dracula&bg_color=282a36&title_color=F85D7F&icon_color=78d9f9&show_icons=false"
+            alt="Cat breeds repo"
     /></a>
     <a href="https://github.com/marucube35/mock_students"
         ><img
