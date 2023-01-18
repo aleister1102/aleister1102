@@ -65,21 +65,21 @@
         <h3>⚡ Github ⚡</h3>
         <img
             width="45%"
-            src="https://github-readme-stats.vercel.app/api?username=marucube35&show_icons=true&theme=dracula"
+            src="http://github-readme-stats-git-master-aleister1102.vercel.app/api?username=aleister1102&show_icons=true&theme=dracula"
         />
     </p>
     <p>
         <h3>🔥 Streaks 🔥</h3>
         <img
             width="45%"
-            src="https://streak-stats.demolab.com?user=marucube35&theme=dracula&border_radius=4&date_format=j%2Fn%5B%2FY%5D"
+            src="https://streak-stats.demolab.com?user=aleister1102&theme=dracula&border_radius=4&date_format=j%2Fn%5B%2FY%5D"
         />
     </p>
     <p>
         <h3>⚒️ Skills ⚒️</h3>
         <img
             width="45%"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=marucube35&layout=compact&theme=dracula"
+            src="http://github-readme-stats-git-master-aleister1102.vercel.app/api/top-langs/?username=aleister1102&layout=compact&theme=dracula"
         />
     </p>
 </p>
@@ -91,7 +91,7 @@
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img
-            src="https://github-profile-trophy.vercel.app/?username=marucube35&theme=dracula&margin-w=24"
+            src="https://github-profile-trophy.vercel.app/?username=aleister1102&theme=dracula&margin-w=24"
         />
     </a>
 </p>
