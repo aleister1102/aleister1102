@@ -43,14 +43,12 @@
 
 <h3>About Me</h3>
 
-<p>
-    <p>🤗 You can call me Kwan or Kuan.</p>
-    <p>🔭 I’m currently on an amazing adventure in the cyber security world.</p>
-    <p>🌱 I’m currently learning Cryptography, Network and C#.</p>
-    <p>💬 Ask me about OOP, computer network or web development.</p>
-    <p>😄 Pronouns: He/His</p>
-    <p>⚡ Fun fact: I am an introvert.</p>
-</p>
+🤗 You can call me *Kwan* or *Kuan*.\
+🔭 I’m currently on an amazing adventure in the **cyber security** world.\
+🌱 I’m currently learning about **cryptography, forensics and reverse engineering**.\
+💬 Ask me about **OOP** and **web development**.\
+😄 Pronouns: He/His.\
+⚡ Fun fact: I am an introvert.
 
 <h3>Stats</h3>
 
