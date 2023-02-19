@@ -65,7 +65,7 @@
         <h3>⚡ Github ⚡</h3>
         <img
             width="45%"
-            src="http://github-readme-stats-git-master-aleister1102.vercel.app/api?username=aleister1102&show_icons=true&theme=dracula"
+            src="https://github-readme-stats-one-pi-12.vercel.app/api?username=aleister1102&show_icons=true&theme=dracula"
         />
     </p>
     <p>
@@ -79,7 +79,7 @@
         <h3>⚒️ Skills ⚒️</h3>
         <img
             width="45%"
-            src="http://github-readme-stats-git-master-aleister1102.vercel.app/api/top-langs/?username=aleister1102&layout=compact&theme=dracula"
+            src="https://github-readme-stats-one-pi-12.vercel.app/api/top-langs/?username=aleister1102&layout=compact&theme=dracula"
         />
     </p>
 </p>
