@@ -76,6 +76,14 @@
             src="https://github-readme-stats-one-pi-12.vercel.app/api/top-langs/?username=aleister1102&layout=compact&theme=dracula"
         />
     </p>
+
+</p>
+
+<br />
+
+<p>
+    <h3>TryHackMe</h3>
+    ![tryhackme stats](https://raw.githubusercontent.com/aleister1102/aleister1102/master/assets/thm_propic.png)
 </p>
 
 <br />
@@ -90,6 +98,4 @@
     </a>
 </p>
 
-<h3>Tryhackme</h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/wineryrippling89.png" alt="TryHackMe">
