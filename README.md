@@ -40,9 +40,9 @@
 <h3>About Me</h3>
 
 🤗 You can call me *Kwan* or *Kuan*.\
-🔭 I’m currently on an amazing adventure in the **cyber security** world.\
-🌱 I’m currently learning about **cryptography, forensics and reverse engineering**.\
-💬 Ask me about **OOP** and **web development**.\
+🔭 I’m currently on an amazing adventure in the **Cybersecurity** world.\
+🌱 I’m currently learning about **Penetration Testing and Decentralized Applications**.\
+💬 Ask me about **Web Development and Blockchain**.\
 😄 Pronouns: He/His.\
 ⚡ Fun fact: I am an introvert.
 
@@ -80,11 +80,6 @@
 </p>
 
 <br />
-
-<p>
-    <h3>TryHackMe</h3>
-    ![tryhackme stats](https://raw.githubusercontent.com/aleister1102/aleister1102/master/assets/thm_propic.png)
-</p>
 
 <br />
 
