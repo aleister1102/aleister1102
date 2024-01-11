@@ -98,4 +98,32 @@
     </a>
 </p>
 
+<h3>Gists</h3>
+
+<img
+    align="left"
+    width="46%"
+    src="https://i.pinimg.com/originals/a8/01/0b/a8010be5dc110f6191ee137f063346c4.jpg"
+/>
+
+<p align="right" style="margin: 40px 0;">
+<img
+    width="48%" style="margin: 20px 0;"
+    src="https://github-readme-stats.vercel.app/api/gist?id=64964f9f284f839e903e1c8b73093e8c&show_icons=true&theme=dracula"
+/>
+</p>
+
+<p align="right">
+<img
+    width="48%" style="margin: 20px 0;"
+    src="https://github-readme-stats.vercel.app/api/gist?id=7fc412b096e205224842762ef3723793&show_icons=true&theme=dracula"
+/>
+</p>
+
+<p align="right">
+<img
+    width="48%" style="margin: 20px 0"
+    src="https://github-readme-stats.vercel.app/api/gist?id=23d691c3d666e3d25a3115f8fdbd4b9c&show_icons=true&theme=dracula"
+/>
+</p>
 
