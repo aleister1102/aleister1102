@@ -110,21 +110,27 @@
 />
 
 <p align="right" style="padding: 10px 0;">
-<img
-    width="48%"
-    style="margin: 0 0 10px 0;"
-    src="https://github-readme-stats.vercel.app/api/gist?id=64964f9f284f839e903e1c8b73093e8c&show_icons=true&theme=dracula&hide_border=true&border_radius=16&show_owner=true"
-/>
-<img
-    width="48%"
-    style="margin: 0 0 10px 0;"
-    src="https://github-readme-stats.vercel.app/api/gist?id=7fc412b096e205224842762ef3723793&show_icons=true&theme=dracula&hide_border=true&border_radius=16&show_owner=true"
-/>
-<img
-    width="48%"
-    style="margin: 0 0 10px 0;"
-    src="https://github-readme-stats.vercel.app/api/gist?id=23d691c3d666e3d25a3115f8fdbd4b9c&show_icons=true&theme=dracula&hide_border=true&border_radius=16&show_owner=true"
-/>
+    <a href="https://gist.github.com/aleister1102/64964f9f284f839e903e1c8b73093e8c">
+        <img
+            width="48%"
+            style="margin: 0 0 10px 0;"
+            src="https://github-readme-stats.vercel.app/api/gist?id=64964f9f284f839e903e1c8b73093e8c&show_icons=true&theme=dracula&hide_border=true&border_radius=16&show_owner=true"
+        />
+    </a>
+    <a href="https://gist.github.com/aleister1102/7fc412b096e205224842762ef3723793">
+        <img
+            width="48%"
+            style="margin: 0 0 10px 0;"
+            src="https://github-readme-stats.vercel.app/api/gist?id=7fc412b096e205224842762ef3723793&show_icons=true&theme=dracula&hide_border=true&border_radius=16&show_owner=true"
+        />        
+    </a>
+    <a href="https://gist.github.com/aleister1102/23d691c3d666e3d25a3115f8fdbd4b9c">
+        <img
+            width="48%"
+            style="margin: 0 0 10px 0;"
+            src="https://github-readme-stats.vercel.app/api/gist?id=23d691c3d666e3d25a3115f8fdbd4b9c&show_icons=true&theme=dracula&hide_border=true&border_radius=16&show_owner=true"
+        />
+    </a>
 </p>
 
 <br />
