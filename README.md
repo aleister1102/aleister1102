@@ -48,10 +48,7 @@
 
 <p>
     <h3>😈 TryHackMe 😈</h3>
-    <img 
-        alt="TryHackMe"
-        src="https://tryhackme-badges.s3.amazonaws.com/wineryrippling89.png" 
-    >
+    <img src="https://tryhackme-badges.s3.amazonaws.com/aleister1102.png" alt="Your Image Badge" />
 </p>
 
 <br/>
