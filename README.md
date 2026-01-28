@@ -1,8 +1,10 @@
+<!--
 <img
     src="https://images5.alphacoders.com/112/1126202.jpg"
     width="100%"
     height="auto"
 />
+-->
 
 <h1 align="center">
     Hi there, I'm Lê Minh Quân
@@ -19,10 +21,11 @@
         ><img
             src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
     /></a>
-    <a href="mailto:marucube35@gmail.com"
+    <a href="mailto:lmquan1102@gmail.com"
         ><img
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     /></a>
+    <!--
     <a href="https://www.facebook.com/profile.php?id=100009916021095"
         ><img
             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
@@ -35,32 +38,30 @@
         ><img
             src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"
     /></a>
+    -->
 </p>
 
 <h3>About Me</h3>
 
-🤗 You can call me *Kwan* or *Kuan*.\
-🔭 I’m currently on an amazing adventure in the **Cybersecurity** world.\
-🌱 I’m currently learning about **Penetration Testing and Decentralized Applications**.\
-💬 Ask me about **Web Development and Blockchain**.\
-😄 Pronouns: He/His.\
-⚡ Fun fact: I am an introvert.
+Just an introvert and curious person.
 
-<p>
-    <h3>😈 TryHackMe 😈</h3>
+I'm interested in Web/Windows/Blockchain Security as well as Red Team Operations, such as MalDev and Offensive Phishing.
+
+<!-- <p>
     <img src="https://tryhackme-badges.s3.amazonaws.com/aleister1102.png" alt="Your Image Badge" />
-</p>
+</p> -->
 
-<br/>
-
+<!--
 <img
     align="right"
     width="48%"
     style="margin: 20px 0; border: 3px solid #ca4f62; border-radius: 10px;"
     src="https://www.whatspaper.com/wp-content/uploads/2021/07/hd-zero-two-wallpaper-whatspaper-4.jpg"
 />
+-->
 
-<p align="left">
+<p align="center">
+    <!--
     <p>
         <h3>⚡ Github ⚡</h3>
         <img
@@ -75,18 +76,16 @@
             src="https://streak-stats.demolab.com?user=aleister1102&theme=dracula&border_radius=4&date_format=j%2Fn%5B%2FY%5D&hide_border=true&border_radius=16"
         />
     </p>
+    -->
     <p>
-        <h3>⚒️ Skills ⚒️</h3>
         <img
-            width="45%"
+            width="60%"
             src="https://github-readme-stats-one-pi-12.vercel.app/api/top-langs/?username=aleister1102&layout=compact&card_width=360px&theme=dracula&hide_border=true&border_radius=16&hide=css,html&langs_count=8"
         />
     </p>
-
 </p>
 
-<br />
-
+<!--
 <p>
     <h3>🏆 Trophies 🏆</h3>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -95,10 +94,9 @@
         />
     </a>
 </p>
+-->
 
-<br/>
-
-<h3>💻 Gists 💻</h3>
+<!-- <h3>💻 Gists 💻</h3>
 <img
     align="left"
     width="46%"
@@ -128,7 +126,5 @@
             src="https://github-readme-stats.vercel.app/api/gist?id=23d691c3d666e3d25a3115f8fdbd4b9c&show_icons=true&theme=dracula&hide_border=true&border_radius=16&show_owner=true"
         />
     </a>
-</p>
-
-<br />
+</p> -->
 
