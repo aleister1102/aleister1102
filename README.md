@@ -6,7 +6,7 @@ src="https://media.giphy.com/media/v5zkiOWG6Fr1RVEtrb/giphy.gif"
 />
 </h1>
 
-<h3 align="center">A passionate computer science student from Việt Nam</h3>
+<h3 align="center">A passionate penteser from Unit 515 - OPSWAT</h3>
 
 <p align="center">
 <a href="mailto:20120356@student.hcmus.edu.vn">
