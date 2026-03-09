@@ -21,7 +21,7 @@ src="https://media.giphy.com/media/v5zkiOWG6Fr1RVEtrb/giphy.gif"
 
 Just an introvert and curious person.
 
-I'm interested in Web/Windows/Blockchain Security as well as Red Team Operations, such as MalDev and Offensive Phishing.
+I'm interested in Web/Windows/Blockchain/AI Security as well as Red Team Operations, such as MalDev and Offensive Phishing.
 
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0">
